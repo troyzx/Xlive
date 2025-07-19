@@ -5,25 +5,25 @@ http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",超级综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",超级综艺
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000019
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",超级体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",超级体育
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000020/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000020
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000507
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",超级电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",超级电影
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000021/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000021
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000504
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000008
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",超级电视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视",超级电视剧
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000022/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000022
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
