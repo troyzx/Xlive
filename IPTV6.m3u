@@ -5,12 +5,20 @@ http://39.134.155.159/PLTV/88888888/224/3221225670/index.m3u8
 http://39.134.155.133/PLTV/88888888/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://39.134.155.153/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",NewTV超级综艺
+http://39.134.155.139/PLTV/88888888/224/3221225593/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://39.134.155.215/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",NewTV超级体育
+http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://39.134.155.145/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",NewTV超级电影
+http://39.134.155.141/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://39.134.155.203/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="未分类",NewTV超级电视剧
+http://39.134.155.145/PLTV/88888888/224/3221225595/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://39.134.155.151/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
@@ -111,22 +119,14 @@ http://39.134.155.205/PLTV/88888888/224/3221225570/index.m3u8
 http://39.134.155.149/PLTV/88888888/224/3221225510/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
 http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级体育
-http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电影 
 http://39.134.155.189/PLTV/88888888/224/3221225497/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电影
 http://39.134.155.133/PLTV/88888888/224/3221225582/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电影
-http://39.134.155.141/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电视剧 
 http://39.134.155.135/PLTV/88888888/224/3221225514/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级电视剧
-http://39.134.155.145/PLTV/88888888/224/3221225595/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺 
 http://39.134.155.203/PLTV/88888888/224/3221225495/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV超级综艺
-http://39.134.155.139/PLTV/88888888/224/3221225593/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",NewTV金牌综艺 
 http://39.134.155.163/PLTV/88888888/224/3221225566/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画
