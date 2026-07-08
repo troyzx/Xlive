@@ -13,9 +13,9 @@ mode: Rule
 log-level: info
 external-controller: 0.0.0.0:9090
 proxies:
-  - {"type":"vless","name":"hk","server":"tencent.troyzx.live","port":39549,"uuid":"2eeca998-780b-4869-eda2-0bbe28cba827","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
-  - {"type":"vless","name":"jp","server":"tk.troyzx.live","port":43881,"uuid":"2cc24fd1-7592-46ca-ab41-cae144b48cfa","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
-  - {"type":"vless","name":"jpv6","server":"tkv6.troyzx.live","port":12509,"uuid":"9f88d92b-e5ab-4564-9ccb-22c020115f64","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
+  - {"type":"vless","name":"hk","server":"tencent.troyzx.com","port":39549,"uuid":"2eeca998-780b-4869-eda2-0bbe28cba827","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
+  - {"type":"vless","name":"jp","server":"tk.troyzx.com","port":43881,"uuid":"2cc24fd1-7592-46ca-ab41-cae144b48cfa","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
+  - {"type":"vless","name":"jpv6","server":"tkv6.troyzx.com","port":12509,"uuid":"9f88d92b-e5ab-4564-9ccb-22c020115f64","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/bannedbook"}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
